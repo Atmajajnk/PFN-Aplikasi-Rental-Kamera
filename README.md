@@ -3,3 +3,6 @@ Penyewaan adalah pemakaian sesuatu dengan membayar uang sewa, uang yang dibayark
 
 # Pembuatan Aplikasi Rental Kamera 
 Aplikasi yang digunakan Microsoft Visual Studio 2019 dan Dikombinasikan dengan DevExpress
+
+#Link Installer Aplikasi
+https://drive.google.com/drive/folders/1P_UIMj1Us3CZuTwAuih_YJYkpGTeU7JY?usp=share_link 
